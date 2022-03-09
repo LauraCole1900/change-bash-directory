@@ -22,7 +22,7 @@ Left-click "Properties".
 
 ### Step 4:
 
-Change the path in "Start in" to where you'd like your Git Bash to open. I have a Code folder on my root directory.
+Change the path in "Start in" to where you'd like your Git Bash to open. I have a Code folder on my root directory. If the "Target" field has a "--cd-to-home" flag, remove it.
 
 ![Step 4](./assets/bash-step-4.jpg)
 
